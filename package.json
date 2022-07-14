@@ -1,0 +1,8 @@
+{
+  "name": "yarn-zero-install",
+  "packageManager": "yarn@3.2.1",
+  "workspaces": [
+    "a",
+    "b"
+  ]
+}
